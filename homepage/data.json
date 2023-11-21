@@ -1,4 +1,15 @@
 {
+    "logo": "</>",
     "title": "Gabriele Alves",
-    "subtitle": "Software Developer"
+    "subtitle": "Software Developer",
+    "description": "Desenvolvedora de software graduada em Análise e Desenvolvimento de Sistemas, com experiência em criação de sites, sistemas para web e análise de sistemas de larga escala.",
+    "linkedin": "https://www.linkedin.com/in/gabrielealvesbonfim/",
+    "github": "https://github.com/gabrielebonfim",
+    "projects": [
+        {
+            "description": "Exemplo de descrição aqui.",
+            "imageUrl": "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
+            "link": "http://127.0.0.1:5500"
+        }
+    ]
 }
