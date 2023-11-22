@@ -17,7 +17,29 @@
 </head>
 <body>
     <div id="project01">
-        {{ pageContent.test }}
+      <header>
+        <div class="px-3 py-2 text-bg-dark border-bottom">
+          <div class="container">
+            <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+              
+              <a href="/" class="d-flex align-items-center my-2 my-lg-0 me-lg-auto text-white text-decoration-none">
+                <h1>MF</h1>
+              </a>
+    
+              <ul 
+                v-for="menuItem in pageContent.menu" 
+                class="nav col-12 col-lg-auto my-2 justify-content-center my-md-0 text-small"
+              >
+                <li>
+                  <a :href="menuItem.link" class="nav-link text-white">
+                    {{ menuItem.name }}
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </header>
     </div>
 
     <script type="module" src="script.js"></script>

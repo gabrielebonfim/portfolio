@@ -1,3 +1,24 @@
 {
-    "test": "its worked!"
+    "menu": [
+        {
+            "name": "Início",
+            "link": "#start"
+        },
+        {
+            "name": "Serviços",
+            "link": "#services"
+        },
+        {
+            "name": "Sobre",
+            "link": "#about"
+        },
+        {
+            "name": "Depoimentos",
+            "link": "#testimonials"
+        },
+        {
+            "name": "Contato",
+            "link": "#contact"
+        }
+    ]
 }
