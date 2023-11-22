@@ -1,0 +1,39 @@
+{
+    "title": "Radiance",
+    "menu": [
+        {
+            "name": "Início",
+            "link": "#start"
+        },
+        {
+            "name": "Serviços",
+            "link": "#services"
+        },
+        {
+            "name": "Sobre",
+            "link": "#about"
+        },
+        {
+            "name": "Depoimentos",
+            "link": "#testimonials"
+        },
+        {
+            "name": "Contato",
+            "link": "#contact"
+        }
+    ],
+    "callToAction": {
+        "title": "Descubra sua versão radiante!",
+        "lead": "Agende sua consulta hoje e embarque na jornada para uma vida mais radiante. Transforme-se com nossos tratamentos exclusivos e redescubra a sua confiança. Seu brilho interior merece ser revelado.",
+        "action": {
+            "name": "Saiba mais",
+            "link": "#about"
+        },
+        "images": {
+            "img1": "https://img.freepik.com/fotos-gratis/medico-examinando-o-rosto-da-mulher-para-tratamento-cosmetico_107420-65108.jpg?w=740&t=st=1700695713~exp=1700696313~hmac=e5cbc2cfdca1559d359f56cbaee01144dfd0b5a6a501f12aeedcaa42de9aa9c8",
+            "img2": "https://img.freepik.com/fotos-gratis/medico-de-cosmetologia-e-paciente_624325-1650.jpg?w=740&t=st=1700695796~exp=1700696396~hmac=8e753efc07355f6b83653f4e10e68f9dc274c77f13e8cbe6d3658209791a90a3",
+            "img3": "https://img.freepik.com/fotos-gratis/close-up-conceito-de-massagem-no-abdomen_23-2148531165.jpg?w=1380&t=st=1700695819~exp=1700696419~hmac=70685d0e21031ee51b1ed24eec4b31089aa274888983e674ca6d01e4552a7936",
+            "img4": "https://img.freepik.com/fotos-gratis/beleza-e-spa_144627-46181.jpg?w=740&t=st=1700695845~exp=1700696445~hmac=92d591bab02d8a235292284b1cc17868b13bc597faca0fb63d0f6f90aa1ed051"
+        }
+    }
+}

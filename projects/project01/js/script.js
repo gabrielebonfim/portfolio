@@ -1,4 +1,4 @@
-import { fetchData } from '../../commons/fetchData.js';
+import { fetchData } from '../../../commons/fetchData.js';
 
 new Vue({
     el: '#project01',
