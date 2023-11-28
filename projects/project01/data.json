@@ -6,12 +6,12 @@
             "link": "#start"
         },
         {
-            "name": "Serviços",
-            "link": "#services"
-        },
-        {
             "name": "Sobre",
             "link": "#about"
+        },
+        {
+            "name": "Serviços",
+            "link": "#services"
         },
         {
             "name": "Depoimentos",
@@ -35,6 +35,11 @@
             "img3": "https://img.freepik.com/fotos-gratis/close-up-conceito-de-massagem-no-abdomen_23-2148531165.jpg?w=1380&t=st=1700695819~exp=1700696419~hmac=70685d0e21031ee51b1ed24eec4b31089aa274888983e674ca6d01e4552a7936",
             "img4": "https://img.freepik.com/fotos-gratis/beleza-e-spa_144627-46181.jpg?w=740&t=st=1700695845~exp=1700696445~hmac=92d591bab02d8a235292284b1cc17868b13bc597faca0fb63d0f6f90aa1ed051"
         }
+    },
+    "about": {
+        "title": "Somos a Radiance!",
+        "subtitle": "Quem somos nós?",
+        "description": "Temos como objetivo principal realçar sua beleza natural. Nossa equipe altamente qualificada oferece tratamentos personalizados para atender às suas necessidades. Com tecnologias avançadas, buscamos resultados notáveis e duradouros, enquanto priorizamos sua experiência e bem-estar. Descubra a diferença que a Radiance pode fazer em sua jornada de beleza. Estamos aqui para você, celebrando sua singularidade em cada visita."
     },
     "services": {
         "title": "Conheça nossos serviços",

@@ -456,3 +456,13 @@
     letter-spacing: 1px;
     box-shadow: none;
 }
+
+#about-description{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#about-description span{
+    width: 70%;
+}
