@@ -35,5 +35,27 @@
             "img3": "https://img.freepik.com/fotos-gratis/close-up-conceito-de-massagem-no-abdomen_23-2148531165.jpg?w=1380&t=st=1700695819~exp=1700696419~hmac=70685d0e21031ee51b1ed24eec4b31089aa274888983e674ca6d01e4552a7936",
             "img4": "https://img.freepik.com/fotos-gratis/beleza-e-spa_144627-46181.jpg?w=740&t=st=1700695845~exp=1700696445~hmac=92d591bab02d8a235292284b1cc17868b13bc597faca0fb63d0f6f90aa1ed051"
         }
+    },
+    "services": {
+        "title": "Conheça nossos serviços",
+        "subtitle": "Nossos serviços",
+        "list": [
+            {
+                "image": "https://img.freepik.com/fotos-gratis/esteticista-com-um-pincel-aplica-uma-mascara-hidratante-branca-no-rosto-de-uma-jovem-cliente-em-um-salao-de-beleza-de-spa_343596-4248.jpg?w=740&t=st=1701211775~exp=1701212375~hmac=887d51245ef089f040404bc8b5ec78334fb503eeeaab195e42e4d41318a6b2b5",
+                "title": "Estética facial"
+            },
+            {
+                "image": "https://img.freepik.com/fotos-gratis/corpo-esguio-de-jovem-de-biquini-preto-menina-com-figura-desportiva-saudavel-na-parede-branca_231208-3870.jpg?w=740&t=st=1701212003~exp=1701212603~hmac=0bd33596ad808ef510c7b649d575a7ca118309d30876b1b65414ab9102b3d9cf",
+                "title": "Estética corporal"
+            },
+            {
+                "image": "https://img.freepik.com/fotos-gratis/beleza-e-spa_144627-46181.jpg?w=740&t=st=1701212042~exp=1701212642~hmac=e2bd4abdf1a479652eaa7032291f7986c94f8258acad97a17cd7c705ea553c04",
+                "title": "Massagens"
+            },
+            {
+                "image": "https://img.freepik.com/fotos-gratis/bela-jovem-deitada-no-tecido-de-la_1150-14462.jpg?w=740&t=st=1701212139~exp=1701212739~hmac=561eccc71a4095e4944e31aba154dd39aeedda3890bdc93e1920ddbc176a2680",
+                "title": "Depilação a laser"
+            }
+        ]
     }
 }
