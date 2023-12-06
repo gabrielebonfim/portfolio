@@ -62,5 +62,24 @@
                 "title": "Depilação a laser"
             }
         ]
+    },
+    "testimonials": {
+        "title": "Depoimentos",
+        "subtitle": "Veja o que nossos clientes acham",
+        "testimonial1": {
+            "clientName": "Lydia F.",
+            "description": "Radiance foi minha melhor descoberta! Meu rosto nunca esteve tão radiante. A equipe é incrível, o tratamento é eficaz, e eu me sinto mais confiante do que nunca. Recomendo a todos!",
+            "clientPicture": "https://img.freepik.com/fotos-gratis/retrato-de-uma-bela-mulher-sorridente-com-cabelos-cacheados-olhando-para-a-camera_1098-20801.jpg?w=826&t=st=1701302987~exp=1701303587~hmac=b96ec54c4c6fdc0478d871ac8381014d223e984d04b60bf6071031335e3a0514"
+        },
+        "testimonial2": {
+            "clientName": "Miranda P.",
+            "description": "Incrível como minha pele mudou desde que comecei os tratamentos aqui. A equipe é excepcional, sempre atenta às minhas necessidades. Cada visita é uma experiência rejuvenescedora. Estou muito satisfeita!",
+            "clientPicture": "https://img.freepik.com/fotos-gratis/retrato-de-uma-linda-mulher-loira-com-penteado-moderno_23-2149430886.jpg?w=740&t=st=1701303937~exp=1701304537~hmac=c57ebfb23e844b906d9a1469c7a8b1d03a3d5fae88c1e3ebedf2a6203eb3b7aa"
+        },
+        "testimonial3": {
+            "clientName": "Kate O.",
+            "description": "Minha jornada de cuidados com a pele ganhou um novo capítulo. A abordagem personalizada e a atenção da equipe são incomparáveis. Estou feliz com os resultados e a experiência como um todo!",
+            "clientPicture": "https://img.freepik.com/fotos-gratis/retrato-de-mulher-com-cabelo-encaracolado_23-2148728586.jpg?w=826&t=st=1701303984~exp=1701304584~hmac=45924b6bf6e71d6ef7ef3c6a081d2c17f66bafdd7e556df466431fedf4ac639c"
+        }   
     }
 }
