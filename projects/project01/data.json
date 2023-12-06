@@ -1,5 +1,6 @@
 {
     "title": "Radiance",
+    "github": "https://github.com/gabrielebonfim/portfolio/tree/main/projects/project01",
     "menu": [
         {
             "name": "Início",
@@ -19,7 +20,7 @@
         },
         {
             "name": "Contato",
-            "link": "#contact"
+            "link": "#footer"
         }
     ],
     "callToAction": {
