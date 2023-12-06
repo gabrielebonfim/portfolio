@@ -7,9 +7,9 @@
     "github": "https://github.com/gabrielebonfim",
     "projects": [
         {
-            "description": "Exemplo de descrição aqui.",
-            "imageUrl": "https://thumbs.dreamstime.com/b/projects-concept-black-chalkboard-d-rendering-handwritten-top-view-office-desk-lot-business-office-supplies-79906734.jpg",
-            "link": "http://127.0.0.1:5500"
+            "description": "Site Radiance",
+            "imageUrl": "https://i.ibb.co/8B8nC4W/Captura-de-tela-de-2023-12-06-16-34-28.png",
+            "link": "/projects/project01/"
         }
     ]
 }
